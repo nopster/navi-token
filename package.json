@@ -49,6 +49,6 @@
     "truffle-contract": "^3.0.3",
     "truffle-hdwallet-provider": "github:mikefluff/truffle-hdwallet-provider",
     "web3": "^0.20.5",
-    "zeppelin-solidity": "^1.5.0"
+    "zeppelin-solidity": "1.5.0"
   }
 }
